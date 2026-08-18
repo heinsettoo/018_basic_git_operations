@@ -1,0 +1,3 @@
+devices:
+  - name: core_switch_01
+    type: cisco_ios
