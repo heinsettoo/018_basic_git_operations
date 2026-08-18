@@ -1,0 +1,22 @@
+! VLAN Configuration for core_switch_01
+configure terminal
+vlan 5
+ name VLAN_005
+ exit
+vlan 6
+ name VLAN_006
+ exit
+vlan 7
+ name VLAN_007
+ exit
+vlan 8
+ name VLAN_008
+ exit
+vlan 9
+ name VLAN_009
+ exit
+vlan 10
+ name VLAN_010
+ exit
+end
+write memory
