@@ -3,3 +3,5 @@ devices:
     type: cisco_ios
   - name: access_switch_01
     type: cisco_ios
+  - name: distribution_switch_01
+    type: cisco_ios
